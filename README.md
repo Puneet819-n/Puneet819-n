@@ -11,7 +11,7 @@
 - Data Visualization
 
 ## Featured Projects
-🔹 Social Media Analytics Project (Excel)
+🔹 Social Media Analytics Project
 🔹 Data Analysis Dashboard
 🔹 Business Insights
 
