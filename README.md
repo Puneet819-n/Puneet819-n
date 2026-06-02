@@ -12,8 +12,6 @@
 
 ## Featured Projects
 🔹 Social Media Analytics Project
-🔹 Data Analysis Dashboard
-🔹 Business Insights
 
 ## Currently Learning
 - Advanced Excel
