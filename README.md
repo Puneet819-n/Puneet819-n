@@ -1,6 +1,6 @@
 # Hi, I'm Puneet 👋
 
-📊 Aspiring Data Analyst | Excel | SQL | Power BI | Python
+📊 Data Analyst | Python | SQL | Power BI | Excel
 
 ## Skills
 - Excel
