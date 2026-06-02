@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Puneet 👋
 
-<!--
-**Puneet819-n/Puneet819-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+## Skills
+- Excel
+- SQL
+- Power BI
+- Python
+- Data Cleaning
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+🔹 Social Media Analytics Project (Excel)
+🔹 Data Analysis Dashboard
+🔹 Business Insights
+
+## Currently Learning
+- Advanced Excel
+- SQL
+- Power BI
+
+## Connect with me
+LinkedIn: https://www.linkedin.com/in/puneet-dhiman04
